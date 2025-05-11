@@ -2,7 +2,6 @@
 <p align="center">
 🚀 Cybersecurity Enthusiast | AI & ML Developer | CTF Player 🎯 <br>
 💻 Passionate about coding, ethical hacking, and solving real-world problems. <br>
-🌍 Based in Saudi Arabia
 </p>
 
 <p align="center">
@@ -19,7 +18,7 @@
 ### 🔧 Tech Stack
 
 - **Languages & Frameworks:**  
-  `Python` | `Flask` 
+  `Python` | `Flask` |
   `PHP` | `HTML` | `CSS` | `SQL` | `.NET Core`
 
 - **Security & CTF Tools:**  

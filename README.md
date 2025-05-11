@@ -27,16 +27,6 @@
 
 ---
 
-### 🏆 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jawlano&show_icons=true&theme=tokyonight" alt="Jawlan's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jawlano&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Contact Me
 - 📎 [LinkedIn](https://www.linkedin.com/in/jawlan-almarri)
 
